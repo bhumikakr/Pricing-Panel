@@ -1,3 +1,3 @@
 # Pricing-Panel
 
-![Screenshot](image.png)
+![Screenshot](image.jpeg)
